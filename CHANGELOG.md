@@ -4,6 +4,7 @@
 
 - **Saltar intro** en los capítulos 6, 7 y 8 de Skypiea. Durante la intro, pulsa la flecha abajo y luego OK para ir al comienzo de la escena siguiente.
 - Los tiempos se comprueban para el vídeo concreto de Pixeldrain y se pueden ampliar mediante el catálogo de TV.
+- El catálogo de TV amplía **Saltar intro** a los 25 capítulos de Skypiea. En los capítulos 11 y 15, el aviso aparece después de la escena inicial, al empezar la intro.
 
 ## 1.01
 
