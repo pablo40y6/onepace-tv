@@ -1,0 +1,233 @@
+{
+  "version": 1,
+  "arcs": [
+    {
+      "id": "romance-dawn",
+      "title": "Romance Dawn",
+      "list": "LC22RWvq",
+      "first": 1
+    },
+    {
+      "id": "orange-town",
+      "title": "Orange Town",
+      "list": "DB6yzXoa",
+      "first": 1
+    },
+    {
+      "id": "syrup-village",
+      "title": "Syrup Village",
+      "list": "WN5T2jSr",
+      "first": 1
+    },
+    {
+      "id": "gaimon",
+      "title": "Gaimon",
+      "list": "phZ3h3bW",
+      "first": 1
+    },
+    {
+      "id": "baratie",
+      "title": "Baratie",
+      "list": "hPQyyjTf",
+      "first": 1
+    },
+    {
+      "id": "arlong-park",
+      "title": "Arlong Park",
+      "list": "gXjJTaYK",
+      "first": 1
+    },
+    {
+      "id": "the-adventures-of-buggys-crew",
+      "title": "The Adventures of Buggy's Crew",
+      "list": "FqWWwsFD",
+      "first": 1
+    },
+    {
+      "id": "loguetown",
+      "title": "Loguetown",
+      "list": "sng6aHYQ",
+      "first": 1
+    },
+    {
+      "id": "reverse-mountain",
+      "title": "Reverse Mountain",
+      "list": "Gxeezgxo",
+      "first": 1
+    },
+    {
+      "id": "whisky-peak",
+      "title": "Whisky Peak",
+      "list": "5d4WRz1y",
+      "first": 1
+    },
+    {
+      "id": "the-trials-of-koby-meppo",
+      "title": "The Trials of Koby-Meppo",
+      "list": "81KWfWcq",
+      "first": 1
+    },
+    {
+      "id": "little-garden",
+      "title": "Little Garden",
+      "list": "uGAb7TWj",
+      "first": 1
+    },
+    {
+      "id": "drum-island",
+      "title": "Drum Island",
+      "list": "4juJksu7",
+      "first": 1
+    },
+    {
+      "id": "alabasta",
+      "title": "Alabasta",
+      "list": "t8zvG6gH",
+      "first": 1
+    },
+    {
+      "id": "jaya",
+      "title": "Jaya",
+      "list": "P6mnmZpN",
+      "first": 1
+    },
+    {
+      "id": "skypiea",
+      "title": "Skypiea",
+      "list": "1bDwFCf9",
+      "first": 1
+    },
+    {
+      "id": "long-ring-long-land",
+      "title": "Long Ring Long Land",
+      "list": "7ky9W8GE",
+      "first": 0
+    },
+    {
+      "id": "water-seven",
+      "title": "Water Seven",
+      "list": "o8YkGt9i",
+      "first": 1
+    },
+    {
+      "id": "enies-lobby",
+      "title": "Enies Lobby",
+      "list": "PxxTYRGz",
+      "first": 1
+    },
+    {
+      "id": "post-enies-lobby",
+      "title": "Post-Enies Lobby",
+      "list": "upyN5vVk",
+      "first": 1
+    },
+    {
+      "id": "thriller-bark",
+      "title": "Thriller Bark",
+      "list": "Cq9faLGv",
+      "first": 1
+    },
+    {
+      "id": "sabaody-archipelago",
+      "title": "Sabaody Archipelago",
+      "list": "jhpKUqF8",
+      "first": 1
+    },
+    {
+      "id": "amazon-lily",
+      "title": "Amazon Lily",
+      "list": "Bsr9gKsn",
+      "first": 1
+    },
+    {
+      "id": "impel-down",
+      "title": "Impel Down",
+      "list": "y5ywnHdF",
+      "first": 1
+    },
+    {
+      "id": "if-you-could-go-anywhere-the-adventures-of-the-straw-hats",
+      "title": "If You Could Go Anywhere... The Adventures of the Straw Hats",
+      "list": "QWXq5X3x",
+      "first": 1
+    },
+    {
+      "id": "marineford",
+      "title": "Marineford",
+      "list": "uFuFpnpi",
+      "first": 1
+    },
+    {
+      "id": "post-war",
+      "title": "Post-War",
+      "list": "7EANMSA7",
+      "first": 1
+    },
+    {
+      "id": "return-to-sabaody",
+      "title": "Return to Sabaody",
+      "list": "igysH62b",
+      "first": 1
+    },
+    {
+      "id": "fishman-island",
+      "title": "Fishman Island",
+      "list": "o6ZzNwzp",
+      "first": 1
+    },
+    {
+      "id": "punk-hazard",
+      "title": "Punk Hazard",
+      "list": "wJoipMZu",
+      "first": 1
+    },
+    {
+      "id": "dressrosa",
+      "title": "Dressrosa",
+      "list": "DMuj2Pqe",
+      "first": 1
+    },
+    {
+      "id": "zou",
+      "title": "Zou",
+      "list": "nSkEY2Cq",
+      "first": 1
+    },
+    {
+      "id": "whole-cake-island",
+      "title": "Whole Cake Island",
+      "list": "phsTwRmF",
+      "first": 1
+    },
+    {
+      "id": "reverie",
+      "title": "Reverie",
+      "list": "Md2atmnr",
+      "first": 1
+    },
+    {
+      "id": "wano",
+      "title": "Wano",
+      "list": "6rSQPvNJ",
+      "first": 1
+    },
+    {
+      "id": "egghead",
+      "title": "Egghead",
+      "list": "PRTmztoz",
+      "first": 1
+    },
+    {
+      "id": "special-one-piece-fan-letter",
+      "title": "Special: One Piece Fan Letter",
+      "list": "JGkNAa1V",
+      "first": 1
+    },
+    {
+      "id": "special-warship-island-01-april-fools-2025",
+      "title": "Special: Warship Island 01 (April Fools 2025)",
+      "list": "YTERtTLz",
+      "first": 1
+    }
+  ]
+}
