@@ -1,5 +1,10 @@
 # Historial de One Pace TV
 
+## 1.0.7
+
+- Pulsa **↓** dos veces durante el vídeo para manejar la barra de reproducción. Cada toque en **←** o **→** salta 10 segundos. Al mantener la flecha, la posición mostrada avanza en saltos de 30 segundos y luego de 1 minuto. El vídeo salta al punto elegido al soltar el botón.
+- Pulsa **↑** para volver a los controles. El menú se oculta tras cinco segundos de inactividad durante la reproducción, contando desde que sueltas la flecha.
+
 ## 1.0.6
 
 - **Continuar** recupera el segundo guardado al volver a un capítulo. La posición se guarda durante la reproducción y al salir. El punto guardado se aplica al mismo archivo de Pixeldrain.
