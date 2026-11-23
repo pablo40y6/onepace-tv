@@ -1,5 +1,15 @@
 # Historial de One Pace TV
 
+## Qué incorpora la app hasta la 1.0.7
+
+- **Inicio y catálogo para el mando.** Pantalla de inicio ilustrada, listas de arcos y capítulos y acceso directo al episodio de Pixeldrain. La portada muestra el arco actual y hasta dos anteriores. Las ilustraciones cubren los 38 arcos y especiales del catálogo de la 0.8. El lanzador de Google TV muestra el nombre One Pace TV junto al icono y el banner de la app.
+- **Reproducción continua.** El vídeo se abre a pantalla completa y el siguiente capítulo arranca automáticamente, también al pasar de un arco a otro. El aviso aparece cinco segundos antes del final y se puede cancelar con el mando.
+- **Controles del vídeo.** Pulsa **↓** para abrir el menú con los saltos de 10 segundos y 1 minuto, el capítulo anterior y el siguiente. **Saltar intro** aparece en las aperturas que tienen tiempos verificados. Un segundo **↓** lleva a la barra de reproducción, donde mantener una flecha acelera el salto. El menú se oculta a los cinco segundos de inactividad durante la reproducción.
+- **Progreso por capítulo.** La app guarda el último capítulo y el segundo de reproducción. **Continuar** recupera esa posición y la lista de capítulos muestra el avance y los episodios vistos.
+- **Catálogo y actualizaciones.** La app comprueba si hay episodios nuevos en las listas conocidas de Pixeldrain y conserva el último catálogo válido si falla la consulta. Los arcos nuevos y los cambios de enlaces llegan mediante el catálogo de TV. El aviso de nueva versión permite descargar la actualización y abrir el instalador desde la propia app.
+
+[Descargar o consultar la versión 1.0.7](https://github.com/pablo40y6/onepace-tv/releases/tag/apk-v1.0.7) · [Hoja de ruta con 15 propuestas](ROADMAP.md)
+
 ## 1.0.7
 
 - Pulsa **↓** dos veces durante el vídeo para manejar la barra de reproducción. Cada toque en **←** o **→** salta 10 segundos. Al mantener la flecha, la posición mostrada avanza en saltos de 30 segundos y luego de 1 minuto. El vídeo salta al punto elegido al soltar el botón.
@@ -71,3 +81,7 @@
 ## 0.3
 
 - Catálogo nativo para Google TV con acceso directo a los capítulos de Pixeldrain y guardado del progreso por capítulo.
+
+## Prueba web inicial
+
+- Antes del APK se preparó una vista para el mando con navegación por arcos, enlaces directos a los capítulos y progreso por episodio guardado en el navegador. La caché de la prueba conserva los archivos necesarios para abrir la interfaz y da prioridad a la red cuando hay conexión. [Rama de la prueba web](https://github.com/pablo40y6/onepace-facil-en/tree/prueba/modo-tv)
