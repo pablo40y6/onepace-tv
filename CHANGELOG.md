@@ -1,5 +1,10 @@
 # Historial de One Pace TV
 
+## 1.0.6
+
+- **Continuar** recupera el segundo guardado al volver a un capítulo. La posición se guarda durante la reproducción y al salir. El punto guardado se aplica al mismo archivo de Pixeldrain.
+- La lista de capítulos muestra una barra de progreso. Los capítulos a medias indican el tiempo guardado y los capítulos vistos tienen la barra completa.
+
 ## 1.0.5
 
 - Cuenta atrás durante los últimos cinco segundos del capítulo. Pulsa **↓** y **OK** en **Cancelar** para detener el salto automático. La cuenta atrás sigue el tiempo del vídeo y se detiene al pausar.
