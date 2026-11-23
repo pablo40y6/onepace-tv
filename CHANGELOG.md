@@ -1,5 +1,10 @@
 # Historial de One Pace TV
 
+## 1.0.3
+
+- El APK incluye los tiempos de los 25 capítulos de Skypiea. Una copia antigua del catálogo de intros ya no puede sustituir esos datos.
+- Las intros se comprueban al abrir One Pace TV, con una vía de respaldo si falla la descarga principal.
+
 ## 1.0.2 · Prueba
 
 - **Saltar intro** en los capítulos 6, 7 y 8 de Skypiea. Durante la intro, pulsa la flecha abajo y luego OK para ir al comienzo de la escena siguiente.
