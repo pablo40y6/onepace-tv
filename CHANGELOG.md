@@ -1,5 +1,10 @@
 # Historial de One Pace TV
 
+## 1.0.5
+
+- Cuenta atrás durante los últimos cinco segundos del capítulo. Pulsa **↓** y **OK** en **Cancelar** para detener el salto automático. La cuenta atrás sigue el tiempo del vídeo y se detiene al pausar.
+- El menú de reproducción se cierra tras cinco segundos sin pulsar el mando mientras el vídeo está en reproducción. El aviso del siguiente capítulo se muestra por separado.
+
 ## 1.0.4
 
 - **Saltar intro** se amplía a todo el catálogo de TV con 455 capítulos con tiempos disponibles. Los 21 capítulos sin una apertura marcada tienen los controles habituales.
