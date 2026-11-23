@@ -1,5 +1,10 @@
 # Historial de One Pace TV
 
+## 1.0.4
+
+- **Saltar intro** se amplía a todo el catálogo de TV con 455 capítulos con tiempos disponibles. Los 21 capítulos sin una apertura marcada tienen los controles habituales.
+- Los tiempos mantienen las mediciones de Skypiea y se comprueban por archivo de Pixeldrain. La ampliación combina marcas de capítulo, mediciones de audio y la revisión de las ediciones que difieren. [One Pace Intro Skipper y licencia MIT](https://github.com/michadasis/onepace-intro-skipper)
+
 ## 1.0.3
 
 - El APK incluye los tiempos de los 25 capítulos de Skypiea. Una copia antigua del catálogo de intros ya no puede sustituir esos datos.
