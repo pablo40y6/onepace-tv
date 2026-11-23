@@ -1,8 +1,30 @@
 {
   "version": 1,
   "intros": [
+    { "episode": "skypiea:1", "file": "puqidjeH", "start": 0, "end": 109.693 },
+    { "episode": "skypiea:2", "file": "gvNjK8mS", "start": 0, "end": 109.693 },
+    { "episode": "skypiea:3", "file": "nCxqskXw", "start": 0, "end": 109.693 },
+    { "episode": "skypiea:4", "file": "gkX8RQzp", "start": 0, "end": 109.693 },
+    { "episode": "skypiea:5", "file": "W52EPfv3", "start": 0, "end": 109.693 },
     { "episode": "skypiea:6", "file": "q1ZVCfXq", "start": 0, "end": 109.735 },
     { "episode": "skypiea:7", "file": "rUds75LZ", "start": 0, "end": 109.693 },
-    { "episode": "skypiea:8", "file": "XXNheVfk", "start": 0, "end": 109.652 }
+    { "episode": "skypiea:8", "file": "XXNheVfk", "start": 0, "end": 109.652 },
+    { "episode": "skypiea:9", "file": "bdGgwStw", "start": 0, "end": 110.277 },
+    { "episode": "skypiea:10", "file": "8TUTTHED", "start": 0, "end": 110.736 },
+    { "episode": "skypiea:11", "file": "5oo4RhVN", "start": 100.643, "end": 210.711 },
+    { "episode": "skypiea:12", "file": "DHLTpKtN", "start": 0, "end": 109.86 },
+    { "episode": "skypiea:13", "file": "kagCW5np", "start": 0, "end": 110.027 },
+    { "episode": "skypiea:14", "file": "nBUhoLmX", "start": 0, "end": 110.027 },
+    { "episode": "skypiea:15", "file": "xvizu8F4", "start": 83.209, "end": 193.235 },
+    { "episode": "skypiea:16", "file": "yJcjwqN7", "start": 0, "end": 109.652 },
+    { "episode": "skypiea:17", "file": "qZ5a2xJb", "start": 0, "end": 110.069 },
+    { "episode": "skypiea:18", "file": "te4h7NgK", "start": 0, "end": 110.069 },
+    { "episode": "skypiea:19", "file": "jFhGSNhN", "start": 0, "end": 110.069 },
+    { "episode": "skypiea:20", "file": "nnTSXnRi", "start": 0, "end": 110.069 },
+    { "episode": "skypiea:21", "file": "GVN5yBd4", "start": 0, "end": 110.069 },
+    { "episode": "skypiea:22", "file": "YYqZVkxF", "start": 0, "end": 110.069 },
+    { "episode": "skypiea:23", "file": "1f3FQEvr", "start": 0, "end": 110.069 },
+    { "episode": "skypiea:24", "file": "3wmQaH5E", "start": 0, "end": 110.068 },
+    { "episode": "skypiea:25", "file": "6KMF49FV", "start": 0, "end": 110.068 }
   ]
 }
