@@ -1,5 +1,12 @@
 # Historial de One Pace TV
 
+## 1.0.8 · Prueba de subtítulos en español
+
+- El selector de la portada permite guardar **Inglés** o **Español latinoamericano** como idioma de subtítulos. La prueba incluye 403 capítulos de audio japonés con subtítulos en español enlazados desde la guía de One Pace.
+- Si un capítulo carece de versión en español, la app pide confirmación antes de abrirlo en inglés, también al avanzar automáticamente.
+- La posición de reproducción se guarda por versión de idioma. Los capítulos vistos y el último capítulo seleccionado siguen asociados al catálogo de la app.
+- El APK de prueba se instala desde su enlace de descarga. [Guía de One Pace en español](https://onepace.net/es-419/watch)
+
 ## Qué incorpora la app hasta la 1.0.7
 
 - **Inicio y catálogo para el mando.** Pantalla de inicio ilustrada, listas de arcos y capítulos y acceso directo al episodio de Pixeldrain. La portada muestra el arco actual y hasta dos anteriores. Las ilustraciones cubren los 38 arcos y especiales del catálogo de la 0.8. El lanzador de Google TV muestra el nombre One Pace TV junto al icono y el banner de la app.
