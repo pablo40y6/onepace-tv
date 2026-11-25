@@ -1,5 +1,9 @@
 # Historial de One Pace TV
 
+## 1.0.13 · Long Ring Long Land completo en español
+
+- **Long Ring Long Land 02–06** incorporan subtítulos en español latinoamericano con audio japonés. Con los capítulos 00 y 01 de la versión anterior, ya se puede ver el arco completo en español. Las pistas siguen los tiempos de las cinco ediciones de 720p de Pixeldrain, incluida la escena previa a la apertura del 06. [Guía de Long Ring Long Land](https://onepace.net/en/watch#long-ring-long-land)
+
 ## 1.0.12 · Long Ring Long Land en español
 
 - **Long Ring Long Land 00 y 01** incorporan una traducción al español latinoamericano con audio japonés. Los diálogos se traducen sobre los tiempos de los archivos de 1080p y 720p publicados en Pixeldrain. [Guía de Long Ring Long Land](https://onepace.net/en/watch#long-ring-long-land)
