@@ -1,5 +1,9 @@
 # Historial de One Pace TV
 
+## 1.0.12 · Long Ring Long Land en español
+
+- **Long Ring Long Land 00 y 01** incorporan una traducción al español latinoamericano con audio japonés. Los diálogos se traducen sobre los tiempos de los archivos de 1080p y 720p publicados en Pixeldrain. [Guía de Long Ring Long Land](https://onepace.net/en/watch#long-ring-long-land)
+
 ## 1.0.11 · Drum Island en español
 
 - **Drum Island 04 y 05** se pueden reproducir con audio japonés y subtítulos en español latinoamericano. Se ajustó el tiempo de los diálogos a las ediciones actuales de 1080p de Pixeldrain, incluida la escena inicial del antiguo 05 que pasó al 04. [Pistas originales de One Pace](https://github.com/one-pace/one-pace-public-subtitles/tree/main/main/11%20Drum%20Island)
