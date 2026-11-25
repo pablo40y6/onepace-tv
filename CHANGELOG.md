@@ -1,5 +1,9 @@
 # Historial de One Pace TV
 
+## 1.0.10 · Primera ampliación de subtítulos en español
+
+- **Egghead 01–04** se pueden reproducir con audio japonés y subtítulos en español latinoamericano. Se comprobaron los tiempos de los diálogos con las cuatro ediciones de 1080p de Pixeldrain. [Pistas originales de One Pace](https://github.com/one-pace/one-pace-public-subtitles/tree/main/main/33%20Egghead)
+
 ## 1.0.9 · Prueba del selector de idioma y Little Garden 05
 
 - La cubierta del navío sirve como selector de idioma al abrir la app por primera vez. El mando ilumina la placa activa. La elección se guarda y se puede cambiar desde el botón de subtítulos de la portada.
