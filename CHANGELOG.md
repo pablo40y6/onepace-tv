@@ -1,5 +1,10 @@
 # Historial de One Pace TV
 
+## 1.0.9 · Prueba del selector de idioma y Little Garden 05
+
+- La cubierta del navío sirve como selector de idioma al abrir la app por primera vez. El mando ilumina la placa activa. La elección se guarda y se puede cambiar desde el botón de subtítulos de la portada.
+- **Little Garden 05** se puede probar con audio japonés y subtítulos en español. Los tiempos de los diálogos se han ajustado por escenas a la edición de 1080p de Pixeldrain. [Pista original de One Pace](https://github.com/one-pace/one-pace-public-subtitles/tree/main/main/10%20Little%20Garden/05)
+
 ## 1.0.8 · Prueba de subtítulos en español
 
 - El selector de la portada permite guardar **Inglés** o **Español latinoamericano** como idioma de subtítulos. La prueba incluye 403 capítulos de audio japonés con subtítulos en español enlazados desde la guía de One Pace.
