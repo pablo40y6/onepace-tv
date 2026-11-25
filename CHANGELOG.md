@@ -1,5 +1,9 @@
 # Historial de One Pace TV
 
+## 1.0.11 · Drum Island en español
+
+- **Drum Island 04 y 05** se pueden reproducir con audio japonés y subtítulos en español latinoamericano. Se ajustó el tiempo de los diálogos a las ediciones actuales de 1080p de Pixeldrain, incluida la escena inicial del antiguo 05 que pasó al 04. [Pistas originales de One Pace](https://github.com/one-pace/one-pace-public-subtitles/tree/main/main/11%20Drum%20Island)
+
 ## 1.0.10 · Primera ampliación de subtítulos en español
 
 - **Egghead 01–04** se pueden reproducir con audio japonés y subtítulos en español latinoamericano. Se comprobaron los tiempos de los diálogos con las cuatro ediciones de 1080p de Pixeldrain. [Pistas originales de One Pace](https://github.com/one-pace/one-pace-public-subtitles/tree/main/main/33%20Egghead)
