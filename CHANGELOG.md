@@ -1,5 +1,10 @@
 # Historial de One Pace TV
 
+## 1.0.16 · Wano 45–63 en español
+
+- **Wano 45–63** incorpora subtítulos en español latinoamericano con audio japonés en los montajes estándar de 1080p de Pixeldrain. Las pistas usan los tiempos de cada edición. [Guía de Wano](https://onepace.net/en/watch#wano)
+- **Wano 46** incluye una traducción para ese montaje. La ficha de lanzamiento anuncia una pista en español, pero el archivo publicado carece de ella. [Lanzamientos de One Pace](https://onepace.net/en/releases)
+
 ## 1.0.15 · Post-Enies Lobby y Egghead en español
 
 - **Post-Enies Lobby 05–06** completan el arco con audio japonés y subtítulos en español latinoamericano en sus ediciones de 720p.
