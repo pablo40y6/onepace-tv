@@ -1,5 +1,9 @@
 # Historial de One Pace TV
 
+## 1.0.14 · Water Seven completo en español
+
+- **Water Seven 01–20** incorporan subtítulos en español latinoamericano con audio japonés. Las pistas siguen los tiempos de las ediciones de 1080p de Pixeldrain. [Guía de Water Seven](https://onepace.net/en/watch#water-seven)
+
 ## 1.0.13 · Long Ring Long Land completo en español
 
 - **Long Ring Long Land 02–06** incorporan subtítulos en español latinoamericano con audio japonés. Con los capítulos 00 y 01 de la versión anterior, ya se puede ver el arco completo en español. Las pistas siguen los tiempos de las cinco ediciones de 720p de Pixeldrain, incluida la escena previa a la apertura del 06. [Guía de Long Ring Long Land](https://onepace.net/en/watch#long-ring-long-land)
