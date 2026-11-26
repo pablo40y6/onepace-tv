@@ -1,5 +1,10 @@
 # Historial de One Pace TV
 
+## 1.1.0 · Saltar intro en español
+
+- **Saltar intro** está disponible al ver capítulos en español con un tiempo de apertura verificado. El aviso aparece durante la música. Pulsa abajo en el mando y selecciona **Saltar intro** para ir al final de la apertura.
+- Funciona tanto en las listas de Pixeldrain como en el reproductor que muestra los subtítulos añadidos por la app. Cada vídeo tiene sus propios tiempos, incluidas las aperturas que empiezan después de una escena.
+
 ## 1.0.16 · Wano 45–63 en español
 
 - **Wano 45–63** incorpora subtítulos en español latinoamericano con audio japonés en los montajes estándar de 1080p de Pixeldrain. Las pistas usan los tiempos de cada edición. [Guía de Wano](https://onepace.net/en/watch#wano)
