@@ -1,5 +1,10 @@
 # Historial de One Pace TV
 
+## 1.0.15 · Post-Enies Lobby y Egghead en español
+
+- **Post-Enies Lobby 05–06** completan el arco con audio japonés y subtítulos en español latinoamericano en sus ediciones de 720p.
+- **Egghead 05–22** incorporan subtítulos en español latinoamericano en los montajes estándar de 1080p. Con las pistas de 01–04 de la 1.0.10, el catálogo en español llega al capítulo 22. [Guía de Egghead](https://onepace.net/en/watch#egghead)
+
 ## 1.0.14 · Water Seven completo en español
 
 - **Water Seven 01–20** incorporan subtítulos en español latinoamericano con audio japonés. Las pistas siguen los tiempos de las ediciones de 1080p de Pixeldrain. [Guía de Water Seven](https://onepace.net/en/watch#water-seven)
