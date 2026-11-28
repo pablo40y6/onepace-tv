@@ -1,5 +1,11 @@
 # Historial de One Pace TV
 
+## 1.1.1 · Reanudación de capítulos con subtítulos añadidos
+
+- **Continuar** espera a que el reproductor de Android arranque y hace un solo salto a la posición guardada. La búsqueda tiene su propio plazo de espera.
+- Si el vídeo no reanuda, la app permite reintentar o verlo desde el principio. La posición permanece disponible al cerrar el aviso.
+- El repositorio de TV incluye el código, los recursos y las instrucciones para compilar el APK.
+
 ## 1.1.0 · Saltar intro en español
 
 - **Saltar intro** está disponible al ver capítulos en español con un tiempo de apertura verificado. El aviso aparece durante la música. Pulsa abajo en el mando y selecciona **Saltar intro** para ir al final de la apertura.

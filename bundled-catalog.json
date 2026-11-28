@@ -1,0 +1,783 @@
+[
+    {
+      "id": "romance-dawn",
+      "list": "LC22RWvq",
+      "title": "Romance Dawn",
+      "first": 1,
+      "episodes": [
+        {"id": "romance-dawn:1", "number": 1, "quality": "480p"},
+        {"id": "romance-dawn:2", "number": 2, "quality": "480p"},
+        {"id": "romance-dawn:3", "number": 3, "quality": "480p"},
+        {"id": "romance-dawn:4", "number": 4, "quality": "480p"}
+      ]
+    },
+    {
+      "id": "orange-town",
+      "list": "DB6yzXoa",
+      "title": "Orange Town",
+      "first": 1,
+      "episodes": [
+        {"id": "orange-town:1", "number": 1, "quality": "480p"},
+        {"id": "orange-town:2", "number": 2, "quality": "480p"},
+        {"id": "orange-town:3", "number": 3, "quality": "480p"}
+      ]
+    },
+    {
+      "id": "syrup-village",
+      "list": "WN5T2jSr",
+      "title": "Syrup Village",
+      "first": 1,
+      "episodes": [
+        {"id": "syrup-village:1", "number": 1, "quality": "480p"},
+        {"id": "syrup-village:2", "number": 2, "quality": "480p"},
+        {"id": "syrup-village:3", "number": 3, "quality": "480p"},
+        {"id": "syrup-village:4", "number": 4, "quality": "480p"},
+        {"id": "syrup-village:5", "number": 5, "quality": "480p"},
+        {"id": "syrup-village:6", "number": 6, "quality": "480p"},
+        {"id": "syrup-village:7", "number": 7, "quality": "480p"}
+      ]
+    },
+    {
+      "id": "gaimon",
+      "list": "phZ3h3bW",
+      "title": "Gaimon",
+      "first": 1,
+      "episodes": [
+        {"id": "gaimon:1", "number": 1, "quality": "480p"}
+      ]
+    },
+    {
+      "id": "baratie",
+      "list": "hPQyyjTf",
+      "title": "Baratie",
+      "first": 1,
+      "episodes": [
+        {"id": "baratie:1", "number": 1, "quality": "480p"},
+        {"id": "baratie:2", "number": 2, "quality": "480p"},
+        {"id": "baratie:3", "number": 3, "quality": "480p"},
+        {"id": "baratie:4", "number": 4, "quality": "480p"},
+        {"id": "baratie:5", "number": 5, "quality": "480p"},
+        {"id": "baratie:6", "number": 6, "quality": "480p"},
+        {"id": "baratie:7", "number": 7, "quality": "480p"},
+        {"id": "baratie:8", "number": 8, "quality": "480p"}
+      ]
+    },
+    {
+      "id": "arlong-park",
+      "list": "gXjJTaYK",
+      "title": "Arlong Park",
+      "first": 1,
+      "episodes": [
+        {"id": "arlong-park:1", "number": 1, "quality": "480p"},
+        {"id": "arlong-park:2", "number": 2, "quality": "480p"},
+        {"id": "arlong-park:3", "number": 3, "quality": "480p"},
+        {"id": "arlong-park:4", "number": 4, "quality": "480p"},
+        {"id": "arlong-park:5", "number": 5, "quality": "480p"},
+        {"id": "arlong-park:6", "number": 6, "quality": "480p"},
+        {"id": "arlong-park:7", "number": 7, "quality": "480p"},
+        {"id": "arlong-park:8", "number": 8, "quality": "480p"},
+        {"id": "arlong-park:9", "number": 9, "quality": "480p"},
+        {"id": "arlong-park:10", "number": 10, "quality": "480p"}
+      ]
+    },
+    {
+      "id": "the-adventures-of-buggys-crew",
+      "list": "FqWWwsFD",
+      "title": "The Adventures of Buggy's Crew",
+      "first": 1,
+      "episodes": [
+        {"id": "the-adventures-of-buggys-crew:1", "number": 1, "quality": "480p"}
+      ]
+    },
+    {
+      "id": "loguetown",
+      "list": "sng6aHYQ",
+      "title": "Loguetown",
+      "first": 1,
+      "episodes": [
+        {"id": "loguetown:1", "number": 1, "quality": "480p"},
+        {"id": "loguetown:2", "number": 2, "quality": "480p"},
+        {"id": "loguetown:3", "number": 3, "quality": "480p"}
+      ]
+    },
+    {
+      "id": "reverse-mountain",
+      "list": "Gxeezgxo",
+      "title": "Reverse Mountain",
+      "first": 1,
+      "episodes": [
+        {"id": "reverse-mountain:1", "number": 1, "quality": "480p"},
+        {"id": "reverse-mountain:2", "number": 2, "quality": "480p"}
+      ]
+    },
+    {
+      "id": "whisky-peak",
+      "list": "5d4WRz1y",
+      "title": "Whisky Peak",
+      "first": 1,
+      "episodes": [
+        {"id": "whisky-peak:1", "number": 1, "quality": "480p"},
+        {"id": "whisky-peak:2", "number": 2, "quality": "480p"}
+      ]
+    },
+    {
+      "id": "the-trials-of-koby-meppo",
+      "list": "81KWfWcq",
+      "title": "The Trials of Koby-Meppo",
+      "first": 1,
+      "episodes": [
+        {"id": "the-trials-of-koby-meppo:1", "number": 1, "quality": "720p"}
+      ]
+    },
+    {
+      "id": "little-garden",
+      "list": "uGAb7TWj",
+      "title": "Little Garden",
+      "first": 1,
+      "episodes": [
+        {"id": "little-garden:1", "number": 1, "quality": "480p"},
+        {"id": "little-garden:2", "number": 2, "quality": "480p"},
+        {"id": "little-garden:3", "number": 3, "quality": "480p"},
+        {"id": "little-garden:4", "number": 4, "quality": "480p"},
+        {"id": "little-garden:5", "number": 5, "quality": "480p"}
+      ]
+    },
+    {
+      "id": "drum-island",
+      "list": "4juJksu7",
+      "title": "Drum Island",
+      "first": 1,
+      "episodes": [
+        {"id": "drum-island:1", "number": 1, "quality": "720p"},
+        {"id": "drum-island:2", "number": 2, "quality": "720p"},
+        {"id": "drum-island:3", "number": 3, "quality": "720p"},
+        {"id": "drum-island:4", "number": 4, "quality": "720p"},
+        {"id": "drum-island:5", "number": 5, "quality": "720p"},
+        {"id": "drum-island:6", "number": 6, "quality": "720p"},
+        {"id": "drum-island:7", "number": 7, "quality": "720p"},
+        {"id": "drum-island:8", "number": 8, "quality": "720p"}
+      ]
+    },
+    {
+      "id": "alabasta",
+      "list": "t8zvG6gH",
+      "title": "Alabasta",
+      "first": 1,
+      "episodes": [
+        {"id": "alabasta:1", "number": 1, "quality": "480p"},
+        {"id": "alabasta:2", "number": 2, "quality": "480p"},
+        {"id": "alabasta:3", "number": 3, "quality": "720p"},
+        {"id": "alabasta:4", "number": 4, "quality": "720p"},
+        {"id": "alabasta:5", "number": 5, "quality": "720p"},
+        {"id": "alabasta:6", "number": 6, "quality": "720p"},
+        {"id": "alabasta:7", "number": 7, "quality": "720p"},
+        {"id": "alabasta:8", "number": 8, "quality": "720p"},
+        {"id": "alabasta:9", "number": 9, "quality": "720p"},
+        {"id": "alabasta:10", "number": 10, "quality": "720p"},
+        {"id": "alabasta:11", "number": 11, "quality": "720p"},
+        {"id": "alabasta:12", "number": 12, "quality": "720p"},
+        {"id": "alabasta:13", "number": 13, "quality": "720p"},
+        {"id": "alabasta:14", "number": 14, "quality": "720p"},
+        {"id": "alabasta:15", "number": 15, "quality": "480p"},
+        {"id": "alabasta:16", "number": 16, "quality": "720p"},
+        {"id": "alabasta:17", "number": 17, "quality": "480p"},
+        {"id": "alabasta:18", "number": 18, "quality": "480p"},
+        {"id": "alabasta:19", "number": 19, "quality": "480p"},
+        {"id": "alabasta:20", "number": 20, "quality": "480p"},
+        {"id": "alabasta:21", "number": 21, "quality": "480p"}
+      ]
+    },
+    {
+      "id": "jaya",
+      "list": "P6mnmZpN",
+      "title": "Jaya",
+      "first": 1,
+      "episodes": [
+        {"id": "jaya:1", "number": 1, "quality": "720p"},
+        {"id": "jaya:2", "number": 2, "quality": "720p"},
+        {"id": "jaya:3", "number": 3, "quality": "720p"},
+        {"id": "jaya:4", "number": 4, "quality": "720p"},
+        {"id": "jaya:5", "number": 5, "quality": "720p"},
+        {"id": "jaya:6", "number": 6, "quality": "720p"},
+        {"id": "jaya:7", "number": 7, "quality": "720p"},
+        {"id": "jaya:8", "number": 8, "quality": "720p"}
+      ]
+    },
+    {
+      "id": "skypiea",
+      "list": "1bDwFCf9",
+      "title": "Skypiea",
+      "first": 1,
+      "episodes": [
+        {"id": "skypiea:1", "number": 1, "quality": "720p"},
+        {"id": "skypiea:2", "number": 2, "quality": "720p"},
+        {"id": "skypiea:3", "number": 3, "quality": "720p"},
+        {"id": "skypiea:4", "number": 4, "quality": "720p"},
+        {"id": "skypiea:5", "number": 5, "quality": "720p"},
+        {"id": "skypiea:6", "number": 6, "quality": "720p"},
+        {"id": "skypiea:7", "number": 7, "quality": "720p"},
+        {"id": "skypiea:8", "number": 8, "quality": "720p"},
+        {"id": "skypiea:9", "number": 9, "quality": "720p"},
+        {"id": "skypiea:10", "number": 10, "quality": "720p"},
+        {"id": "skypiea:11", "number": 11, "quality": "480p"},
+        {"id": "skypiea:12", "number": 12, "quality": "480p"},
+        {"id": "skypiea:13", "number": 13, "quality": "480p"},
+        {"id": "skypiea:14", "number": 14, "quality": "720p"},
+        {"id": "skypiea:15", "number": 15, "quality": "480p"},
+        {"id": "skypiea:16", "number": 16, "quality": "480p"},
+        {"id": "skypiea:17", "number": 17, "quality": "480p"},
+        {"id": "skypiea:18", "number": 18, "quality": "480p"},
+        {"id": "skypiea:19", "number": 19, "quality": "480p"},
+        {"id": "skypiea:20", "number": 20, "quality": "480p"},
+        {"id": "skypiea:21", "number": 21, "quality": "480p"},
+        {"id": "skypiea:22", "number": 22, "quality": "480p"},
+        {"id": "skypiea:23", "number": 23, "quality": "480p"},
+        {"id": "skypiea:24", "number": 24, "quality": "480p"},
+        {"id": "skypiea:25", "number": 25, "quality": "480p"}
+      ]
+    },
+    {
+      "id": "long-ring-long-land",
+      "list": "7ky9W8GE",
+      "title": "Long Ring Long Land",
+      "first": 0,
+      "episodes": [
+        {"id": "long-ring-long-land:0", "number": 0, "quality": "480p"},
+        {"id": "long-ring-long-land:1", "number": 1, "quality": "720p"},
+        {"id": "long-ring-long-land:2", "number": 2, "quality": "720p"},
+        {"id": "long-ring-long-land:3", "number": 3, "quality": "720p"},
+        {"id": "long-ring-long-land:4", "number": 4, "quality": "720p"},
+        {"id": "long-ring-long-land:5", "number": 5, "quality": "720p"},
+        {"id": "long-ring-long-land:6", "number": 6, "quality": "720p"}
+      ]
+    },
+    {
+      "id": "water-seven",
+      "list": "o8YkGt9i",
+      "title": "Water Seven",
+      "first": 1,
+      "episodes": [
+        {"id": "water-seven:1", "number": 1, "quality": "720p"},
+        {"id": "water-seven:2", "number": 2, "quality": "720p"},
+        {"id": "water-seven:3", "number": 3, "quality": "720p"},
+        {"id": "water-seven:4", "number": 4, "quality": "720p"},
+        {"id": "water-seven:5", "number": 5, "quality": "720p"},
+        {"id": "water-seven:6", "number": 6, "quality": "720p"},
+        {"id": "water-seven:7", "number": 7, "quality": "720p"},
+        {"id": "water-seven:8", "number": 8, "quality": "720p"},
+        {"id": "water-seven:9", "number": 9, "quality": "720p"},
+        {"id": "water-seven:10", "number": 10, "quality": "720p"},
+        {"id": "water-seven:11", "number": 11, "quality": "720p"},
+        {"id": "water-seven:12", "number": 12, "quality": "720p"},
+        {"id": "water-seven:13", "number": 13, "quality": "720p"},
+        {"id": "water-seven:14", "number": 14, "quality": "720p"},
+        {"id": "water-seven:15", "number": 15, "quality": "720p"},
+        {"id": "water-seven:16", "number": 16, "quality": "720p"},
+        {"id": "water-seven:17", "number": 17, "quality": "720p"},
+        {"id": "water-seven:18", "number": 18, "quality": "720p"},
+        {"id": "water-seven:19", "number": 19, "quality": "720p"},
+        {"id": "water-seven:20", "number": 20, "quality": "720p"}
+      ]
+    },
+    {
+      "id": "enies-lobby",
+      "list": "PxxTYRGz",
+      "title": "Enies Lobby",
+      "first": 1,
+      "episodes": [
+        {"id": "enies-lobby:1", "number": 1, "quality": "480p"},
+        {"id": "enies-lobby:2", "number": 2, "quality": "480p"},
+        {"id": "enies-lobby:3", "number": 3, "quality": "480p"},
+        {"id": "enies-lobby:4", "number": 4, "quality": "480p"},
+        {"id": "enies-lobby:5", "number": 5, "quality": "480p"},
+        {"id": "enies-lobby:6", "number": 6, "quality": "480p"},
+        {"id": "enies-lobby:7", "number": 7, "quality": "480p"},
+        {"id": "enies-lobby:8", "number": 8, "quality": "480p"},
+        {"id": "enies-lobby:9", "number": 9, "quality": "480p"},
+        {"id": "enies-lobby:10", "number": 10, "quality": "480p"},
+        {"id": "enies-lobby:11", "number": 11, "quality": "720p"},
+        {"id": "enies-lobby:12", "number": 12, "quality": "720p"},
+        {"id": "enies-lobby:13", "number": 13, "quality": "720p"},
+        {"id": "enies-lobby:14", "number": 14, "quality": "720p"},
+        {"id": "enies-lobby:15", "number": 15, "quality": "720p"},
+        {"id": "enies-lobby:16", "number": 16, "quality": "720p"},
+        {"id": "enies-lobby:17", "number": 17, "quality": "720p"},
+        {"id": "enies-lobby:18", "number": 18, "quality": "720p"},
+        {"id": "enies-lobby:19", "number": 19, "quality": "720p"},
+        {"id": "enies-lobby:20", "number": 20, "quality": "720p"},
+        {"id": "enies-lobby:21", "number": 21, "quality": "720p"},
+        {"id": "enies-lobby:22", "number": 22, "quality": "720p"},
+        {"id": "enies-lobby:23", "number": 23, "quality": "720p"},
+        {"id": "enies-lobby:24", "number": 24, "quality": "720p"},
+        {"id": "enies-lobby:25", "number": 25, "quality": "720p"}
+      ]
+    },
+    {
+      "id": "post-enies-lobby",
+      "list": "upyN5vVk",
+      "title": "Post-Enies Lobby",
+      "first": 1,
+      "episodes": [
+        {"id": "post-enies-lobby:1", "number": 1, "quality": "720p"},
+        {"id": "post-enies-lobby:2", "number": 2, "quality": "720p"},
+        {"id": "post-enies-lobby:3", "number": 3, "quality": "720p"},
+        {"id": "post-enies-lobby:4", "number": 4, "quality": "720p"},
+        {"id": "post-enies-lobby:5", "number": 5, "quality": "720p"},
+        {"id": "post-enies-lobby:6", "number": 6, "quality": "720p"}
+      ]
+    },
+    {
+      "id": "thriller-bark",
+      "list": "Cq9faLGv",
+      "title": "Thriller Bark",
+      "first": 1,
+      "episodes": [
+        {"id": "thriller-bark:1", "number": 1, "quality": "720p"},
+        {"id": "thriller-bark:2", "number": 2, "quality": "720p"},
+        {"id": "thriller-bark:3", "number": 3, "quality": "720p"},
+        {"id": "thriller-bark:4", "number": 4, "quality": "720p"},
+        {"id": "thriller-bark:5", "number": 5, "quality": "720p"},
+        {"id": "thriller-bark:6", "number": 6, "quality": "720p"},
+        {"id": "thriller-bark:7", "number": 7, "quality": "720p"},
+        {"id": "thriller-bark:8", "number": 8, "quality": "720p"},
+        {"id": "thriller-bark:9", "number": 9, "quality": "720p"},
+        {"id": "thriller-bark:10", "number": 10, "quality": "720p"},
+        {"id": "thriller-bark:11", "number": 11, "quality": "720p"},
+        {"id": "thriller-bark:12", "number": 12, "quality": "720p"},
+        {"id": "thriller-bark:13", "number": 13, "quality": "720p"},
+        {"id": "thriller-bark:14", "number": 14, "quality": "720p"},
+        {"id": "thriller-bark:15", "number": 15, "quality": "720p"},
+        {"id": "thriller-bark:16", "number": 16, "quality": "720p"},
+        {"id": "thriller-bark:17", "number": 17, "quality": "720p"},
+        {"id": "thriller-bark:18", "number": 18, "quality": "720p"},
+        {"id": "thriller-bark:19", "number": 19, "quality": "720p"},
+        {"id": "thriller-bark:20", "number": 20, "quality": "720p"},
+        {"id": "thriller-bark:21", "number": 21, "quality": "720p"},
+        {"id": "thriller-bark:22", "number": 22, "quality": "720p"}
+      ]
+    },
+    {
+      "id": "sabaody-archipelago",
+      "list": "jhpKUqF8",
+      "title": "Sabaody Archipelago",
+      "first": 1,
+      "episodes": [
+        {"id": "sabaody-archipelago:1", "number": 1, "quality": "720p"},
+        {"id": "sabaody-archipelago:2", "number": 2, "quality": "720p"},
+        {"id": "sabaody-archipelago:3", "number": 3, "quality": "720p"},
+        {"id": "sabaody-archipelago:4", "number": 4, "quality": "720p"},
+        {"id": "sabaody-archipelago:5", "number": 5, "quality": "720p"},
+        {"id": "sabaody-archipelago:6", "number": 6, "quality": "720p"},
+        {"id": "sabaody-archipelago:7", "number": 7, "quality": "720p"},
+        {"id": "sabaody-archipelago:8", "number": 8, "quality": "720p"},
+        {"id": "sabaody-archipelago:9", "number": 9, "quality": "720p"},
+        {"id": "sabaody-archipelago:10", "number": 10, "quality": "720p"},
+        {"id": "sabaody-archipelago:11", "number": 11, "quality": "720p"}
+      ]
+    },
+    {
+      "id": "amazon-lily",
+      "list": "Bsr9gKsn",
+      "title": "Amazon Lily",
+      "first": 1,
+      "episodes": [
+        {"id": "amazon-lily:1", "number": 1, "quality": "720p"},
+        {"id": "amazon-lily:2", "number": 2, "quality": "720p"},
+        {"id": "amazon-lily:3", "number": 3, "quality": "720p"},
+        {"id": "amazon-lily:4", "number": 4, "quality": "720p"},
+        {"id": "amazon-lily:5", "number": 5, "quality": "720p"}
+      ]
+    },
+    {
+      "id": "impel-down",
+      "list": "y5ywnHdF",
+      "title": "Impel Down",
+      "first": 1,
+      "episodes": [
+        {"id": "impel-down:1", "number": 1, "quality": "720p"},
+        {"id": "impel-down:2", "number": 2, "quality": "720p"},
+        {"id": "impel-down:3", "number": 3, "quality": "720p"},
+        {"id": "impel-down:4", "number": 4, "quality": "720p"},
+        {"id": "impel-down:5", "number": 5, "quality": "720p"},
+        {"id": "impel-down:6", "number": 6, "quality": "720p"},
+        {"id": "impel-down:7", "number": 7, "quality": "720p"},
+        {"id": "impel-down:8", "number": 8, "quality": "720p"},
+        {"id": "impel-down:9", "number": 9, "quality": "720p"},
+        {"id": "impel-down:10", "number": 10, "quality": "720p"}
+      ]
+    },
+    {
+      "id": "if-you-could-go-anywhere-the-adventures-of-the-straw-hats",
+      "list": "QWXq5X3x",
+      "title": "If You Could Go Anywhere... The Adventures of the Straw Hats",
+      "first": 1,
+      "episodes": [
+        {"id": "if-you-could-go-anywhere-the-adventures-of-the-straw-hats:1", "number": 1, "quality": "480p"}
+      ]
+    },
+    {
+      "id": "marineford",
+      "list": "uFuFpnpi",
+      "title": "Marineford",
+      "first": 1,
+      "episodes": [
+        {"id": "marineford:1", "number": 1, "quality": "720p"},
+        {"id": "marineford:2", "number": 2, "quality": "720p"},
+        {"id": "marineford:3", "number": 3, "quality": "720p"},
+        {"id": "marineford:4", "number": 4, "quality": "720p"},
+        {"id": "marineford:5", "number": 5, "quality": "720p"},
+        {"id": "marineford:6", "number": 6, "quality": "720p"},
+        {"id": "marineford:7", "number": 7, "quality": "720p"},
+        {"id": "marineford:8", "number": 8, "quality": "720p"},
+        {"id": "marineford:9", "number": 9, "quality": "720p"},
+        {"id": "marineford:10", "number": 10, "quality": "720p"},
+        {"id": "marineford:11", "number": 11, "quality": "720p"},
+        {"id": "marineford:12", "number": 12, "quality": "720p"},
+        {"id": "marineford:13", "number": 13, "quality": "720p"},
+        {"id": "marineford:14", "number": 14, "quality": "720p"},
+        {"id": "marineford:15", "number": 15, "quality": "720p"},
+        {"id": "marineford:16", "number": 16, "quality": "720p"},
+        {"id": "marineford:17", "number": 17, "quality": "720p"}
+      ]
+    },
+    {
+      "id": "post-war",
+      "list": "7EANMSA7",
+      "title": "Post-War",
+      "first": 1,
+      "episodes": [
+        {"id": "post-war:1", "number": 1, "quality": "720p"},
+        {"id": "post-war:2", "number": 2, "quality": "720p"},
+        {"id": "post-war:3", "number": 3, "quality": "720p"},
+        {"id": "post-war:4", "number": 4, "quality": "720p"},
+        {"id": "post-war:5", "number": 5, "quality": "720p"},
+        {"id": "post-war:6", "number": 6, "quality": "720p"},
+        {"id": "post-war:7", "number": 7, "quality": "720p"},
+        {"id": "post-war:8", "number": 8, "quality": "720p"}
+      ]
+    },
+    {
+      "id": "return-to-sabaody",
+      "list": "igysH62b",
+      "title": "Return to Sabaody",
+      "first": 1,
+      "episodes": [
+        {"id": "return-to-sabaody:1", "number": 1, "quality": "720p"},
+        {"id": "return-to-sabaody:2", "number": 2, "quality": "720p"},
+        {"id": "return-to-sabaody:3", "number": 3, "quality": "720p"}
+      ]
+    },
+    {
+      "id": "fishman-island",
+      "list": "o6ZzNwzp",
+      "title": "Fishman Island",
+      "first": 1,
+      "episodes": [
+        {"id": "fishman-island:1", "number": 1, "quality": "720p"},
+        {"id": "fishman-island:2", "number": 2, "quality": "720p"},
+        {"id": "fishman-island:3", "number": 3, "quality": "720p"},
+        {"id": "fishman-island:4", "number": 4, "quality": "720p"},
+        {"id": "fishman-island:5", "number": 5, "quality": "720p"},
+        {"id": "fishman-island:6", "number": 6, "quality": "720p"},
+        {"id": "fishman-island:7", "number": 7, "quality": "720p"},
+        {"id": "fishman-island:8", "number": 8, "quality": "720p"},
+        {"id": "fishman-island:9", "number": 9, "quality": "720p"},
+        {"id": "fishman-island:10", "number": 10, "quality": "720p"},
+        {"id": "fishman-island:11", "number": 11, "quality": "720p"},
+        {"id": "fishman-island:12", "number": 12, "quality": "720p"},
+        {"id": "fishman-island:13", "number": 13, "quality": "720p"},
+        {"id": "fishman-island:14", "number": 14, "quality": "720p"},
+        {"id": "fishman-island:15", "number": 15, "quality": "720p"},
+        {"id": "fishman-island:16", "number": 16, "quality": "720p"},
+        {"id": "fishman-island:17", "number": 17, "quality": "720p"},
+        {"id": "fishman-island:18", "number": 18, "quality": "720p"},
+        {"id": "fishman-island:19", "number": 19, "quality": "720p"},
+        {"id": "fishman-island:20", "number": 20, "quality": "720p"},
+        {"id": "fishman-island:21", "number": 21, "quality": "720p"},
+        {"id": "fishman-island:22", "number": 22, "quality": "720p"},
+        {"id": "fishman-island:23", "number": 23, "quality": "720p"},
+        {"id": "fishman-island:24", "number": 24, "quality": "720p"}
+      ]
+    },
+    {
+      "id": "punk-hazard",
+      "list": "wJoipMZu",
+      "title": "Punk Hazard",
+      "first": 1,
+      "episodes": [
+        {"id": "punk-hazard:1", "number": 1, "quality": "720p"},
+        {"id": "punk-hazard:2", "number": 2, "quality": "720p"},
+        {"id": "punk-hazard:3", "number": 3, "quality": "720p"},
+        {"id": "punk-hazard:4", "number": 4, "quality": "720p"},
+        {"id": "punk-hazard:5", "number": 5, "quality": "720p"},
+        {"id": "punk-hazard:6", "number": 6, "quality": "720p"},
+        {"id": "punk-hazard:7", "number": 7, "quality": "720p"},
+        {"id": "punk-hazard:8", "number": 8, "quality": "720p"},
+        {"id": "punk-hazard:9", "number": 9, "quality": "720p"},
+        {"id": "punk-hazard:10", "number": 10, "quality": "720p"},
+        {"id": "punk-hazard:11", "number": 11, "quality": "720p"},
+        {"id": "punk-hazard:12", "number": 12, "quality": "720p"},
+        {"id": "punk-hazard:13", "number": 13, "quality": "720p"},
+        {"id": "punk-hazard:14", "number": 14, "quality": "720p"},
+        {"id": "punk-hazard:15", "number": 15, "quality": "720p"},
+        {"id": "punk-hazard:16", "number": 16, "quality": "720p"},
+        {"id": "punk-hazard:17", "number": 17, "quality": "720p"},
+        {"id": "punk-hazard:18", "number": 18, "quality": "720p"},
+        {"id": "punk-hazard:19", "number": 19, "quality": "720p"},
+        {"id": "punk-hazard:20", "number": 20, "quality": "720p"},
+        {"id": "punk-hazard:21", "number": 21, "quality": "720p"},
+        {"id": "punk-hazard:22", "number": 22, "quality": "720p"}
+      ]
+    },
+    {
+      "id": "dressrosa",
+      "list": "DMuj2Pqe",
+      "title": "Dressrosa",
+      "first": 1,
+      "episodes": [
+        {"id": "dressrosa:1", "number": 1, "quality": "720p"},
+        {"id": "dressrosa:2", "number": 2, "quality": "720p"},
+        {"id": "dressrosa:3", "number": 3, "quality": "720p"},
+        {"id": "dressrosa:4", "number": 4, "quality": "720p"},
+        {"id": "dressrosa:5", "number": 5, "quality": "720p"},
+        {"id": "dressrosa:6", "number": 6, "quality": "720p"},
+        {"id": "dressrosa:7", "number": 7, "quality": "720p"},
+        {"id": "dressrosa:8", "number": 8, "quality": "720p"},
+        {"id": "dressrosa:9", "number": 9, "quality": "720p"},
+        {"id": "dressrosa:10", "number": 10, "quality": "720p"},
+        {"id": "dressrosa:11", "number": 11, "quality": "720p"},
+        {"id": "dressrosa:12", "number": 12, "quality": "720p"},
+        {"id": "dressrosa:13", "number": 13, "quality": "720p"},
+        {"id": "dressrosa:14", "number": 14, "quality": "720p"},
+        {"id": "dressrosa:15", "number": 15, "quality": "720p"},
+        {"id": "dressrosa:16", "number": 16, "quality": "720p"},
+        {"id": "dressrosa:17", "number": 17, "quality": "720p"},
+        {"id": "dressrosa:18", "number": 18, "quality": "720p"},
+        {"id": "dressrosa:19", "number": 19, "quality": "720p"},
+        {"id": "dressrosa:20", "number": 20, "quality": "720p"},
+        {"id": "dressrosa:21", "number": 21, "quality": "720p"},
+        {"id": "dressrosa:22", "number": 22, "quality": "720p"},
+        {"id": "dressrosa:23", "number": 23, "quality": "720p"},
+        {"id": "dressrosa:24", "number": 24, "quality": "720p"},
+        {"id": "dressrosa:25", "number": 25, "quality": "720p"},
+        {"id": "dressrosa:26", "number": 26, "quality": "720p"},
+        {"id": "dressrosa:27", "number": 27, "quality": "720p"},
+        {"id": "dressrosa:28", "number": 28, "quality": "720p"},
+        {"id": "dressrosa:29", "number": 29, "quality": "720p"},
+        {"id": "dressrosa:30", "number": 30, "quality": "720p"},
+        {"id": "dressrosa:31", "number": 31, "quality": "720p"},
+        {"id": "dressrosa:32", "number": 32, "quality": "720p"},
+        {"id": "dressrosa:33", "number": 33, "quality": "720p"},
+        {"id": "dressrosa:34", "number": 34, "quality": "720p"},
+        {"id": "dressrosa:35", "number": 35, "quality": "720p"},
+        {"id": "dressrosa:36", "number": 36, "quality": "720p"},
+        {"id": "dressrosa:37", "number": 37, "quality": "720p"},
+        {"id": "dressrosa:38", "number": 38, "quality": "720p"},
+        {"id": "dressrosa:39", "number": 39, "quality": "720p"},
+        {"id": "dressrosa:40", "number": 40, "quality": "720p"},
+        {"id": "dressrosa:41", "number": 41, "quality": "720p"},
+        {"id": "dressrosa:42", "number": 42, "quality": "720p"},
+        {"id": "dressrosa:43", "number": 43, "quality": "720p"},
+        {"id": "dressrosa:44", "number": 44, "quality": "720p"},
+        {"id": "dressrosa:45", "number": 45, "quality": "720p"},
+        {"id": "dressrosa:46", "number": 46, "quality": "720p"},
+        {"id": "dressrosa:47", "number": 47, "quality": "720p"},
+        {"id": "dressrosa:48", "number": 48, "quality": "720p"}
+      ]
+    },
+    {
+      "id": "zou",
+      "list": "nSkEY2Cq",
+      "title": "Zou",
+      "first": 1,
+      "episodes": [
+        {"id": "zou:1", "number": 1, "quality": "720p"},
+        {"id": "zou:2", "number": 2, "quality": "720p"},
+        {"id": "zou:3", "number": 3, "quality": "720p"},
+        {"id": "zou:4", "number": 4, "quality": "720p"},
+        {"id": "zou:5", "number": 5, "quality": "720p"},
+        {"id": "zou:6", "number": 6, "quality": "720p"},
+        {"id": "zou:7", "number": 7, "quality": "720p"},
+        {"id": "zou:8", "number": 8, "quality": "720p"},
+        {"id": "zou:9", "number": 9, "quality": "720p"},
+        {"id": "zou:10", "number": 10, "quality": "720p"}
+      ]
+    },
+    {
+      "id": "whole-cake-island",
+      "list": "phsTwRmF",
+      "title": "Whole Cake Island",
+      "first": 1,
+      "episodes": [
+        {"id": "whole-cake-island:1", "number": 1, "quality": "720p"},
+        {"id": "whole-cake-island:2", "number": 2, "quality": "720p"},
+        {"id": "whole-cake-island:3", "number": 3, "quality": "720p"},
+        {"id": "whole-cake-island:4", "number": 4, "quality": "720p"},
+        {"id": "whole-cake-island:5", "number": 5, "quality": "720p"},
+        {"id": "whole-cake-island:6", "number": 6, "quality": "720p"},
+        {"id": "whole-cake-island:7", "number": 7, "quality": "720p"},
+        {"id": "whole-cake-island:8", "number": 8, "quality": "720p"},
+        {"id": "whole-cake-island:9", "number": 9, "quality": "720p"},
+        {"id": "whole-cake-island:10", "number": 10, "quality": "720p"},
+        {"id": "whole-cake-island:11", "number": 11, "quality": "720p"},
+        {"id": "whole-cake-island:12", "number": 12, "quality": "720p"},
+        {"id": "whole-cake-island:13", "number": 13, "quality": "720p"},
+        {"id": "whole-cake-island:14", "number": 14, "quality": "720p"},
+        {"id": "whole-cake-island:15", "number": 15, "quality": "720p"},
+        {"id": "whole-cake-island:16", "number": 16, "quality": "720p"},
+        {"id": "whole-cake-island:17", "number": 17, "quality": "720p"},
+        {"id": "whole-cake-island:18", "number": 18, "quality": "720p"},
+        {"id": "whole-cake-island:19", "number": 19, "quality": "720p"},
+        {"id": "whole-cake-island:20", "number": 20, "quality": "720p"},
+        {"id": "whole-cake-island:21", "number": 21, "quality": "720p"},
+        {"id": "whole-cake-island:22", "number": 22, "quality": "720p"},
+        {"id": "whole-cake-island:23", "number": 23, "quality": "720p"},
+        {"id": "whole-cake-island:24", "number": 24, "quality": "720p"},
+        {"id": "whole-cake-island:25", "number": 25, "quality": "720p"},
+        {"id": "whole-cake-island:26", "number": 26, "quality": "720p"},
+        {"id": "whole-cake-island:27", "number": 27, "quality": "720p"},
+        {"id": "whole-cake-island:28", "number": 28, "quality": "720p"},
+        {"id": "whole-cake-island:29", "number": 29, "quality": "720p"},
+        {"id": "whole-cake-island:30", "number": 30, "quality": "720p"},
+        {"id": "whole-cake-island:31", "number": 31, "quality": "720p"},
+        {"id": "whole-cake-island:32", "number": 32, "quality": "720p"},
+        {"id": "whole-cake-island:33", "number": 33, "quality": "720p"},
+        {"id": "whole-cake-island:34", "number": 34, "quality": "720p"},
+        {"id": "whole-cake-island:35", "number": 35, "quality": "720p"},
+        {"id": "whole-cake-island:36", "number": 36, "quality": "720p"},
+        {"id": "whole-cake-island:37", "number": 37, "quality": "720p"},
+        {"id": "whole-cake-island:38", "number": 38, "quality": "720p"},
+        {"id": "whole-cake-island:39", "number": 39, "quality": "720p"}
+      ]
+    },
+    {
+      "id": "reverie",
+      "list": "Md2atmnr",
+      "title": "Reverie",
+      "first": 1,
+      "episodes": [
+        {"id": "reverie:1", "number": 1, "quality": "480p"},
+        {"id": "reverie:2", "number": 2, "quality": "480p"},
+        {"id": "reverie:3", "number": 3, "quality": "480p"}
+      ]
+    },
+    {
+      "id": "wano",
+      "list": "6rSQPvNJ",
+      "title": "Wano",
+      "first": 1,
+      "episodes": [
+        {"id": "wano:1", "number": 1, "quality": "480p"},
+        {"id": "wano:2", "number": 2, "quality": "480p"},
+        {"id": "wano:3", "number": 3, "quality": "480p"},
+        {"id": "wano:4", "number": 4, "quality": "480p"},
+        {"id": "wano:5", "number": 5, "quality": "720p"},
+        {"id": "wano:6", "number": 6, "quality": "720p"},
+        {"id": "wano:7", "number": 7, "quality": "720p"},
+        {"id": "wano:8", "number": 8, "quality": "720p"},
+        {"id": "wano:9", "number": 9, "quality": "720p"},
+        {"id": "wano:10", "number": 10, "quality": "720p"},
+        {"id": "wano:11", "number": 11, "quality": "720p"},
+        {"id": "wano:12", "number": 12, "quality": "720p"},
+        {"id": "wano:13", "number": 13, "quality": "720p"},
+        {"id": "wano:14", "number": 14, "quality": "720p"},
+        {"id": "wano:15", "number": 15, "quality": "720p"},
+        {"id": "wano:16", "number": 16, "quality": "720p"},
+        {"id": "wano:17", "number": 17, "quality": "720p"},
+        {"id": "wano:18", "number": 18, "quality": "720p"},
+        {"id": "wano:19", "number": 19, "quality": "720p"},
+        {"id": "wano:20", "number": 20, "quality": "720p"},
+        {"id": "wano:21", "number": 21, "quality": "720p"},
+        {"id": "wano:22", "number": 22, "quality": "720p"},
+        {"id": "wano:23", "number": 23, "quality": "720p"},
+        {"id": "wano:24", "number": 24, "quality": "720p"},
+        {"id": "wano:25", "number": 25, "quality": "720p"},
+        {"id": "wano:26", "number": 26, "quality": "720p"},
+        {"id": "wano:27", "number": 27, "quality": "720p"},
+        {"id": "wano:28", "number": 28, "quality": "720p"},
+        {"id": "wano:29", "number": 29, "quality": "720p"},
+        {"id": "wano:30", "number": 30, "quality": "720p"},
+        {"id": "wano:31", "number": 31, "quality": "720p"},
+        {"id": "wano:32", "number": 32, "quality": "720p"},
+        {"id": "wano:33", "number": 33, "quality": "720p"},
+        {"id": "wano:34", "number": 34, "quality": "720p"},
+        {"id": "wano:35", "number": 35, "quality": "720p"},
+        {"id": "wano:36", "number": 36, "quality": "720p"},
+        {"id": "wano:37", "number": 37, "quality": "720p"},
+        {"id": "wano:38", "number": 38, "quality": "720p"},
+        {"id": "wano:39", "number": 39, "quality": "480p"},
+        {"id": "wano:40", "number": 40, "quality": "480p"},
+        {"id": "wano:41", "number": 41, "quality": "480p"},
+        {"id": "wano:42", "number": 42, "quality": "480p"},
+        {"id": "wano:43", "number": 43, "quality": "480p"},
+        {"id": "wano:44", "number": 44, "quality": "480p"},
+        {"id": "wano:45", "number": 45, "quality": "480p"},
+        {"id": "wano:46", "number": 46, "quality": "480p"},
+        {"id": "wano:47", "number": 47, "quality": "480p"},
+        {"id": "wano:48", "number": 48, "quality": "480p"},
+        {"id": "wano:49", "number": 49, "quality": "480p"},
+        {"id": "wano:50", "number": 50, "quality": "480p"},
+        {"id": "wano:51", "number": 51, "quality": "480p"},
+        {"id": "wano:52", "number": 52, "quality": "480p"},
+        {"id": "wano:53", "number": 53, "quality": "480p"},
+        {"id": "wano:54", "number": 54, "quality": "480p"},
+        {"id": "wano:55", "number": 55, "quality": "480p"},
+        {"id": "wano:56", "number": 56, "quality": "480p"},
+        {"id": "wano:57", "number": 57, "quality": "480p"},
+        {"id": "wano:58", "number": 58, "quality": "480p"},
+        {"id": "wano:59", "number": 59, "quality": "480p"},
+        {"id": "wano:60", "number": 60, "quality": "480p"},
+        {"id": "wano:61", "number": 61, "quality": "480p"},
+        {"id": "wano:62", "number": 62, "quality": "480p"},
+        {"id": "wano:63", "number": 63, "quality": "480p"}
+      ]
+    },
+    {
+      "id": "egghead",
+      "list": "PRTmztoz",
+      "title": "Egghead",
+      "first": 1,
+      "episodes": [
+        {"id": "egghead:1", "number": 1, "quality": "480p"},
+        {"id": "egghead:2", "number": 2, "quality": "480p"},
+        {"id": "egghead:3", "number": 3, "quality": "480p"},
+        {"id": "egghead:4", "number": 4, "quality": "480p"},
+        {"id": "egghead:5", "number": 5, "quality": "480p"},
+        {"id": "egghead:6", "number": 6, "quality": "480p"},
+        {"id": "egghead:7", "number": 7, "quality": "480p"},
+        {"id": "egghead:8", "number": 8, "quality": "480p"},
+        {"id": "egghead:9", "number": 9, "quality": "480p"},
+        {"id": "egghead:10", "number": 10, "quality": "480p"},
+        {"id": "egghead:11", "number": 11, "quality": "480p"},
+        {"id": "egghead:12", "number": 12, "quality": "480p"},
+        {"id": "egghead:13", "number": 13, "quality": "480p"},
+        {"id": "egghead:14", "number": 14, "quality": "480p"},
+        {"id": "egghead:15", "number": 15, "quality": "480p"},
+        {"id": "egghead:16", "number": 16, "quality": "480p"},
+        {"id": "egghead:17", "number": 17, "quality": "480p"},
+        {"id": "egghead:18", "number": 18, "quality": "480p"},
+        {"id": "egghead:19", "number": 19, "quality": "480p"},
+        {"id": "egghead:20", "number": 20, "quality": "480p"},
+        {"id": "egghead:21", "number": 21, "quality": "480p"},
+        {"id": "egghead:22", "number": 22, "quality": "480p"}
+      ]
+    },
+    {
+      "id": "special-one-piece-fan-letter",
+      "list": "JGkNAa1V",
+      "title": "Special: One Piece Fan Letter",
+      "first": 1,
+      "episodes": [
+        {"id": "special-one-piece-fan-letter:1", "number": 1, "quality": "480p"}
+      ]
+    },
+    {
+      "id": "special-warship-island-01-april-fools-2025",
+      "list": "YTERtTLz",
+      "title": "Special: Warship Island 01 (April Fools 2025)",
+      "first": 1,
+      "episodes": [
+        {"id": "special-warship-island-01-april-fools-2025:1", "number": 1, "quality": "480p"}
+      ]
+    }
+]
